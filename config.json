@@ -1,0 +1,15 @@
+{
+    "output_folder": "docs",
+    "deeplinks": [
+        {
+            "template": "default",
+            "deeplink": "google",
+            "url": "https://google.com"
+        },
+        {
+            "template": "default",
+            "deeplink": "bravesearch",
+            "url": "https://search.brave.com"
+        }
+    ]
+}
